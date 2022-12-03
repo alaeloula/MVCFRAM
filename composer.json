@@ -1,0 +1,16 @@
+{
+    "name": "alaae/mvcfram",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "alaeloula",
+            "email": "105067668+alaeloula@users.noreply.github.com"
+        }
+    ],
+ 
+    "require": {}
+}
